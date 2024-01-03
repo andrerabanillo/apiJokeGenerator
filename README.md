@@ -4,7 +4,6 @@ This project creates a simple web application that fetches jokes from an externa
 
 ## Features
 Joke Retrieval: Utilizes the api-ninjas API to fetch jokes upon user interaction.
-Visual Presentation: Presents fetched jokes in an appealing format on the web page.
 
 ## Installation
 Clone the repository: git clone https://github.com/your-username/joke-generator.git
@@ -14,7 +13,6 @@ Open the project directory.
 ## Usage
 Open index.html in a web browser.
 Click the "Get Joke" button to fetch a new joke from the API.
-Enjoy the displayed joke!
 
 ## Code Structure
 index.html: Defines the structure of the web page and includes references to CSS and JavaScript files.

@@ -24,3 +24,9 @@ index.js: Handles the logic for fetching jokes from the API and updating the dis
 ## Getting Started
 Obtain an API key from api-ninjas.
 Add your API key to the JavaScript file (index.js) in the apiCall() function where indicated.
+
+## Author Information
+
+Andre Rabanillo
+1234572
+arabanil@uoguelph.ca

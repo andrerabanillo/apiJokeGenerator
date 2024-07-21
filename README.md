@@ -1,6 +1,6 @@
 # apiJokeGenerator
 
-This project creates a simple web application that fetches jokes from an external API and displays them in an artistic manner on a web page. It consists of HTML, CSS, and JavaScript files to achieve this functionality.
+This project creates a simple web application that fetches jokes from an external API and displays them on a web page.
 
 ## Features
 Joke Retrieval: Utilizes the api-ninjas API to fetch jokes upon user interaction.
